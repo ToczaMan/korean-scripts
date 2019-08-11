@@ -8,16 +8,13 @@ def main():
     known_dictionary = {}
     words_to_guess = {}
     mistakes = 0
-    with open("../res/all_words.txt", encoding="utf-8") as all_words, \
-            open("../res/known_words.txt", encoding="utf-8", mode="w") as known_words_reference:
-        for line in all_words:
+    with open("../res/known_words.txt", encoding="utf-8") as known_words:
+        for line in known_words:
             words_in_line = line.split(";")
             if len(words_in_line) > 1:
                 english_word = words_in_line[0].strip()
                 korean_word = words_in_line[1].strip()
                 known_dictionary[english_word.lower()] = words_to_guess[english_word.lower()] = korean_word
-                known_words_reference.write("{english_word} - {korean_word}\r\n"
-                                            .format(english_word=english_word, korean_word=korean_word))
     while words_to_guess:
         # Pick a random Korean word from the list.
         drawn_english_word, drawn_korean_word = random.choice(list(words_to_guess.items()))
