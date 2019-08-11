@@ -1,0 +1,185 @@
+butterfly;나비
+paralysis;마비
+driver;기사
+harness;마구
+maybe;아마
+hippo;하마
+ant;개미
+ship;배
+stomach;배
+pear;배
+bird;새
+sun;해
+crab;게
+wash face;세수
+swing;그네
+camera;카메라
+mountain;산
+under;밑
+clothes;옷
+daytime;낯
+flower;꽃
+moon;달
+water;물
+bear;곰
+3;삼
+3;셋
+three;삼
+three;셋
+house;집
+forest;숩
+ball;공
+room;방
+watermelon;수박
+book;책
+kitchen;부엌
+money;돈
+lemon;레몬
+newspaper;신문
+umbrella;우산
+soon;곧
+comb;빗
+light;빛
+hieut;히읗
+strawberry;딸기
+foot;발
+pencil;연필
+mom;엄마
+computer;컴퓨터
+rice;밥
+meal;밥
+mouth;입
+knee;무릎
+bag;가방
+refrigerator;냉장고
+window;창문
+seesaw;시소
+Rome;로마
+smile;미소
+pine tree;소나무
+often;자주
+lake;호수
+basket;바구니
+baseball;야구
+palm tree;야자수
+talk;이야기
+talk;얘기
+woman;여자
+rice;밥
+tongue;혀
+yoga;요가
+cooking;요리
+professor;교수
+glass;유리
+toilet paper;휴지
+milk;우유
+cookie;쿠키
+card;카드
+nose;코
+height;키
+ostrich;타조
+tomato;토마토
+bullfighter;투우사
+fly;파리
+grape;포도
+stamp;우표
+tea;차
+skirt;치마
+pepper;고추
+coffee;커피
+coat;코트
+train ticket;기차표
+kisses;뽀뽀
+kiss;키스
+magpie;까치
+tail;꼬리
+elephant;코끼리
+to pick;따다
+to float;뜨다
+hairband;머리띠
+root;뿌리
+bone;뼈
+dad;아빠
+to be cheap;싸다
+to write;쓰다
+middle-aged man;아저씨
+to be salty;짜다
+to steam;찌다
+fake;가짜
+duck;오리
+ring;고리
+which;어느
+where;어디
+there;거기
+married couple;부부
+tofu;두부
+seawater;오수
+street;거리
+warrior;무사
+road;도로
+sidewalk;도보
+repair;수리
+do;하다
+one;하나
+1;하나
+one;일
+1;일
+seat;자리
+honey;자기
+5;다섯
+5;오
+Korea;한국
+Korean people;한국 사람들
+Korean;한국 사람
+Korean;한국어
+Koreans;한국 사람들
+baby;아기
+banana;바나나
+bananas;바나나
+bus;버스
+cattle;소
+child;아이
+children;아이들
+countries;나라
+country;나라
+cow;소
+cows;소
+cucumber;오이
+cucumbers;오이
+father;아버지
+five;다섯
+five;오
+hangul;한글
+hat;모자
+head;머리
+heads;머리
+kid;아이
+kids;아이들
+leg;다리
+legs;다리
+man's younger brother;아우
+map;지도
+meat;고기
+meats;고기
+mother;어머니
+our;우리
+pants;바지
+radio;라디오
+radios;라디오
+shoe;구두
+shoes;구두
+singer;가수
+singeress;가수
+singers;가수들
+soap;비누
+spider;거미
+teeth;이
+tooth;이
+tree;나무
+trees;나무
+trousers;바지
+underground;지하
+us;우리
+waist;허리
+we;우리
+who;누구
