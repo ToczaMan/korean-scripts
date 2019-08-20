@@ -54,6 +54,213 @@ bag;가방
 refrigerator;냉장고
 window;창문
 seesaw;시소
+magazine;잡지
+wallet;지갑
+guitar;기타
+thank you;고맙습니다
+thank you;고마워요
+thank you;고마워
+thank you;감사합니다
+stapler;스테이플러
+stapler;호치키스
+keyboard;키보드
+sorry;미안합니다
+sorry;미안해요
+sorry;미안해
+sorry;죄송합니다
+glue;딱풀
+poem;시
+you;너
+you;당신
+chopsticks;젓가락
+literature;문학
+cat;고양이
+duct tape;스카치테이프
+floor;바닥
+pencil case;필통
+table;책상
+eraser;지우개
+notebook;공책
+glasses;안경
+clock;시계
+cellphone;휴대폰
+cellphone;핸드폰
+sunglasses;선글라스
+coin;동전
+ruler;자
+whiteboard;칠팍
+dictionary;사전
+electronic dictionary;전자사전
+letter;글자
+sound value;음가
+writing order;획순
+nosebleed;코피
+blood;피
+batchim;받침
+front;앞
+back;뒤
+on;위
+up;위
+over;위
+under;밑
+side;옆
+in;안
+inside;안
+Thailand;태국
+Canada;캐나다
+everyone;여러분
+to listen;듣다
+to speak;말하다
+to look for;찾다
+beer;맥주
+mushrooms;버섯
+club;클럽
+Korean drama;한국 드라마
+news;뉴스
+then;그럼
+so;그럼
+sports center;스포츠 센터
+and;그리고
+and;하고
+puppy;강아지
+airport;공항
+post office;우채국
+embassy;대사관
+bank;은행
+store;가게
+clothing store;옷가게
+barter;이발소
+pharmacy;약국
+hospital;병원
+hairdresser;미용실
+here;여기
+there;거기
+there;저기
+Insadong;인사동
+Myeongdong;먕동
+Nam mountain;남산
+to drink;마시다
+to meet;만나다
+to eat;먹다
+to read;읽다
+to buy;사다
+to sleep;자다
+to see;보다
+to look;보다
+to watch;보다
+to learn;배우다
+to call;전화하다
+to study;공부하다
+to work;일하다
+to exercise;운동하다
+library;도서관
+theatre;극장
+cinema;극장
+market;시장
+marketplace;시장
+school;학교
+university;대학교
+restaurant;식당
+to sit;앉다
+to sit down;앉다
+to teach;가르치다
+juice;주스
+television;텔레비전
+bread;빵
+taekwondo;태권도
+cola;콜라
+chocolate;초콜릿
+homework;숙제
+to do homework;숙제하다
+pizza;피자
+canteen;학생 식당
+park;공원
+department store;백화점
+to be fun;재미있다
+to be interesting;재미있다
+to be tired;피곤하다
+to be sleepy;졸리다
+to like;좋아하다
+to love;사랑하다
+snack;간식
+cinema;영화관
+to make;만들다
+cheese;치즈
+to clean the house;청소하다
+to clean up;정리하다
+shoes;신발
+high heels;하이힐
+boots;부츠
+sandals;샌들
+slippers;슬리퍼
+rain boots;장화
+high boots;장화
+sports shoes;운동화
+overpass;고가도로
+highway;고속도로
+boar;멧돼지
+to clean;깨끗하다
+to hang;끼다
+thunder;천둥
+lightning;번개
+hail;우박
+Cheonggyecheon;청계천
+Daehak-ro;대학로
+trashcan;휴지통
+classroom;교실
+teahouse;찻집
+Seoul;서울
+downtown;시내
+to sightsee;구경하다
+to shop;쇼핑하다
+theater play;연국
+internet;인터넷
+online;온라인
+window shopping;아이쇼핑
+to go;가다
+to come;와다
+can do;할 수 있다
+cannot do;할 수 없다
+ladder;사다리
+writing;타기
+party;파티
+to be expensive;비싸다
+Sunday;일요일
+left;왼쪽
+right;오른쪽
+tomorrow;내일
+everyday;매일
+cafe;타페
+living room;거실
+year;년
+year;연도
+anniversary;주년
+life;생활
+a little;좀
+a little;조금
+to be bored;심심하다
+Han-gang;한강
+by the way;그런데
+how;어떻게
+to be close;가깝다
+Gwanaksan;관악산
+city hall;시청
+binoculars;망원경
+why;왜
+view;뵤
+downpour;소나기
+storm;태풍
+lunch time;점심
+whole day;하루
+recently;최근
+recently;요즘
+dawn;새벽
+morning;아침
+forenoon;오전
+afternoon;오후
+evening;저녁
+evening;밤
+night;밤
 Rome;로마
 smile;미소
 pine tree;소나무
