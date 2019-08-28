@@ -1,392 +1,795 @@
-butterfly;나비
-paralysis;마비
-driver;기사
-harness;마구
-maybe;아마
-hippo;하마
-ant;개미
-ship;배
-stomach;배
-pear;배
-bird;새
-sun;해
-crab;게
-wash face;세수
-swing;그네
-camera;카메라
-mountain;산
-under;밑
-clothes;옷
-daytime;낯
-flower;꽃
-moon;달
-water;물
-bear;곰
+10000;만
+1000;천
+100;백
+10;십
+10;열
+1;일
+1;하나
+2;둘
+2;이
 3;삼
 3;셋
-three;삼
-three;셋
-house;집
-forest;숩
-ball;공
-room;방
-watermelon;수박
-book;책
-kitchen;부엌
-money;돈
-lemon;레몬
-newspaper;신문
-umbrella;우산
-soon;곧
-comb;빗
-light;빛
-hieut;히읗
-strawberry;딸기
-foot;발
-pencil;연필
-mom;엄마
-computer;컴퓨터
-rice;밥
-meal;밥
-mouth;입
-knee;무릎
-bag;가방
-refrigerator;냉장고
-window;창문
-seesaw;시소
-magazine;잡지
-wallet;지갑
-guitar;기타
-thank you;고맙습니다
-thank you;고마워요
-thank you;고마워
-thank you;감사합니다
-stapler;스테이플러
-stapler;호치키스
-keyboard;키보드
-sorry;미안합니다
-sorry;미안해요
-sorry;미안해
-sorry;죄송합니다
-glue;딱풀
-poem;시
-you;너
-you;당신
-chopsticks;젓가락
-literature;문학
-cat;고양이
-duct tape;스카치테이프
-floor;바닥
-pencil case;필통
-table;책상
-eraser;지우개
-notebook;공책
-glasses;안경
-clock;시계
-cellphone;휴대폰
-cellphone;핸드폰
-sunglasses;선글라스
-coin;동전
-ruler;자
-whiteboard;칠팍
-dictionary;사전
-electronic dictionary;전자사전
-letter;글자
-sound value;음가
-writing order;획순
-nosebleed;코피
-blood;피
-batchim;받침
-front;앞
-back;뒤
-on;위
-up;위
-over;위
-under;밑
-side;옆
-in;안
-inside;안
-Thailand;태국
-Canada;캐나다
-everyone;여러분
-to listen;듣다
-to speak;말하다
-to look for;찾다
-beer;맥주
-mushrooms;버섯
-club;클럽
-Korean drama;한국 드라마
-news;뉴스
-then;그럼
-so;그럼
-sports center;스포츠 센터
-and;그리고
-and;하고
-puppy;강아지
-airport;공항
-post office;우채국
-embassy;대사관
-bank;은행
-store;가게
-clothing store;옷가게
-barter;이발소
-pharmacy;약국
-hospital;병원
-hairdresser;미용실
-here;여기
-there;거기
-there;저기
-Insadong;인사동
-Myeongdong;먕동
-Nam mountain;남산
-to drink;마시다
-to meet;만나다
-to eat;먹다
-to read;읽다
-to buy;사다
-to sleep;자다
-to see;보다
-to look;보다
-to watch;보다
-to learn;배우다
-to call;전화하다
-to study;공부하다
-to work;일하다
-to exercise;운동하다
-library;도서관
-theatre;극장
-cinema;극장
-market;시장
-marketplace;시장
-school;학교
-university;대학교
-restaurant;식당
-to sit;앉다
-to sit down;앉다
-to teach;가르치다
-juice;주스
-television;텔레비전
-bread;빵
-taekwondo;태권도
-cola;콜라
-chocolate;초콜릿
-homework;숙제
-to do homework;숙제하다
-pizza;피자
-canteen;학생 식당
-park;공원
-department store;백화점
-to be fun;재미있다
-to be interesting;재미있다
-to be tired;피곤하다
-to be sleepy;졸리다
-to like;좋아하다
-to love;사랑하다
-snack;간식
-cinema;영화관
-to make;만들다
-cheese;치즈
-to clean the house;청소하다
-to clean up;정리하다
-shoes;신발
-high heels;하이힐
-boots;부츠
-sandals;샌들
-slippers;슬리퍼
-rain boots;장화
-high boots;장화
-sports shoes;운동화
-overpass;고가도로
-highway;고속도로
-boar;멧돼지
-to clean;깨끗하다
-to hang;끼다
-thunder;천둥
-lightning;번개
-hail;우박
-Cheonggyecheon;청계천
-Daehak-ro;대학로
-trashcan;휴지통
-classroom;교실
-teahouse;찻집
-Seoul;서울
-downtown;시내
-to sightsee;구경하다
-to shop;쇼핑하다
-theater play;연국
-internet;인터넷
-online;온라인
-window shopping;아이쇼핑
-to go;가다
-to come;와다
-can do;할 수 있다
-cannot do;할 수 없다
-ladder;사다리
-writing;타기
-party;파티
-to be expensive;비싸다
-Sunday;일요일
-left;왼쪽
-right;오른쪽
-tomorrow;내일
-everyday;매일
-cafe;타페
-living room;거실
-year;년
-year;연도
-anniversary;주년
-life;생활
-a little;좀
-a little;조금
-to be bored;심심하다
-Han-gang;한강
-by the way;그런데
-how;어떻게
-to be close;가깝다
-Gwanaksan;관악산
-city hall;시청
-binoculars;망원경
-why;왜
-view;뵤
-downpour;소나기
-storm;태풍
-lunch time;점심
-whole day;하루
-recently;최근
-recently;요즘
-dawn;새벽
-morning;아침
-forenoon;오전
-afternoon;오후
-evening;저녁
-evening;밤
-night;밤
-Rome;로마
-smile;미소
-pine tree;소나무
-often;자주
-lake;호수
-basket;바구니
-baseball;야구
-palm tree;야자수
-talk;이야기
-talk;얘기
-woman;여자
-rice;밥
-tongue;혀
-yoga;요가
-cooking;요리
-professor;교수
-glass;유리
-toilet paper;휴지
-milk;우유
-cookie;쿠키
-card;카드
-nose;코
-height;키
-ostrich;타조
-tomato;토마토
-bullfighter;투우사
-fly;파리
-grape;포도
-stamp;우표
-tea;차
-skirt;치마
-pepper;고추
-coffee;커피
-coat;코트
-train ticket;기차표
-kisses;뽀뽀
-kiss;키스
-magpie;까치
-tail;꼬리
-elephant;코끼리
-to pick;따다
-to float;뜨다
-hairband;머리띠
-root;뿌리
-bone;뼈
-dad;아빠
-to be cheap;싸다
-to write;쓰다
-middle-aged man;아저씨
-to be salty;짜다
-to steam;찌다
-fake;가짜
-duck;오리
-ring;고리
-which;어느
-where;어디
-there;거기
-married couple;부부
-tofu;두부
-seawater;오수
-street;거리
-warrior;무사
-road;도로
-sidewalk;도보
-repair;수리
-do;하다
-one;하나
-1;하나
-one;일
-1;일
-seat;자리
-honey;자기
+4;넷
+4;사
 5;다섯
 5;오
+6;여섯
+6;육
+7;일곱
+7;칠
+8;여덟
+8;팔
+9;구
+9;아홉
+America;미국
+April;사월
+August;팔월
+Australia Open;호주 오픈
+Australia;호주
+Beijing;베이징
+COEX Mall;코엑스몰
+Canada;캐나다
+Cheonggyecheon;청계천
+China;중국
+Christmas;크리스마스
+Daehak-ro;대학로
+December;십이월
+Easter;부활절
+England;영국
+Fat Thursday;뚱뚱한 목요일
+February;이월
+France;프랑스
+Friday;금요일
+Germany;독일
+Gwanaksan;관악산
+Han-gang;한강
+Harry Potter;해리포터
+I'm not sure;글쎄요
+I;나
+I;저
+IKEA;이케아
+India;인도
+Insadong;인사동
+January;일월
+Japan;일본
+Japanese;일본어
+July;칠월
+June;유월
 Korea;한국
+Korean drama;한국 드라마
+Korean folksong;아리랑
 Korean people;한국 사람들
 Korean;한국 사람
 Korean;한국어
 Koreans;한국 사람들
+London;런던
+March;삼월
+May;오월
+Monday;월요일
+Moon;달
+Moscow;모스크바
+Myeongdong;명동
+Nam mountain;남산
+New Year's Eve;신년전야
+New Year;신년
+New York;뉴욕
+November;십일월
+October;시월
+Pakistan;파키스탄
+Paris;파리
+Poland;폴란드
+Rome;로마
+Russia;러시아
+Saturday;토요일
+Seoul;서울
+September;구월
+Singapore;싱가포르
+Sunday;일요일
+Sunday;일요일
+TV;텔레비전
+Thailand;태국
+Thursday;목요일
+Tokyo;도쿄
+Tuesday;화요일
+USA;미국
+United States;미국
+Wednesday;수요일
+Yeoui Island;여의도
+a little;조금
+a little;좀
+academy;학원
+afternoon;오후
+again;또
+airport;공항
+alcohol;술
+alone;혼자
+also;도
+and;그리고
+and;하고
+animal count;마리
+animal teeth;이빨
+animal tooth;이빨
+anniversary;주년
+ant;개미
+appointment;약속
+autumn foliage;단풍
+autumn;가을
 baby;아기
+back;뒤
+badminton;배드민톤
+bag;가방
+ball;공
 banana;바나나
 bananas;바나나
+bank;은행
+barbershop;이발소
+baseball;야구
+basket;바구니
+batchim;받침
+bean;콩
+bear;곰
+beard;수염
+beard;턱수염
+beef;소고기
+beer;맥주
+behind;뒤
+bibimbap;비빔밥
+binoculars;망원경
+bird;새
+birthday;생일
+blood;피
+boar;멧돼지
+bone;뼈
+book count;권
+book;책
+boots;부츠
+bottle;병
+bouquet;다발
+bowl;그릇
+box;박스
+boyfriend;남자 친구
+boyfriend;남친
+brain;두뇌
+bread;빵
+break time;쉬는 시간
+building count;채
+bulgogi;불고기
+bullfighter;투우사
 bus;버스
+but;지만
+butterfly;나비
+by the way;그런데
+cafe;카페
+calligraphy;서예
+camera;카메라
+can do;할 수 있다
+candy;사탕
+cannot do;할 수 없다
+canteen;학생 식당
+car;차
+card;카드
+cat;고양이
 cattle;소
+cellphone;핸드폰
+cellphone;휴대폰
+chair;의자
+cheese;치즈
 child;아이
 children;아이들
+chocolate;초콜릿
+chopsticks;젓가락
+cigarette count;개피
+cinema;극장
+cinema;영화관
+city hall;시청
+class;반
+classroom;교실
+clock;시계
+clothes count;벌
+clothes;옷
+clothing store;옷가게
+club;클럽
+coat;코트
+coffee;커피
+coin;동전
+cola;콜라
+cold noodles;냉면
+comb;빗
+come again;또 오세요
+come in;어서 오세요
+company;회사
+computer;컴퓨터
+convenience store;편익점
+cook;요리사
+cookie;쿠키
+cooking;요리
 countries;나라
 country;나라
+couple;쌍
+pair;쌍
 cow;소
 cows;소
+crab;게
 cucumber;오이
 cucumbers;오이
+cup;컵
+currently;지금
+dad;아빠
+date;날짜
+dawn;새벽
+day;일
+daytime;낯
+degree;도
+department store;백화점
+dictionary;사전
+doctor;의사
+dog;개
+donut;도넛
+door;문
+doughnut;도넛
+downpour;소나기
+downtown;시내
+between;사이
+dozen;다스
+dress shirt;와이셔츠
+driver;기사
+duck;오리
+duct tape;스카치테이프
+dumplings;만두
+ear;귀
+eight;여덟
+eight;팔
+electric fan;선퐁기
+electronic dictionary;전자사전
+electronics count;대
+elephant;코끼리
+embassy;대사관
+employee;종업원
+employee;회사원
+eraser;지우개
+evening;밤
+evening;저녁
+everyday;매일
+everyone;여러분
+eye;눈
+fake;가짜
+fall;가을
+family;가족
+fan;부채
+fang;송곳니
+fat;뚱뚱한
 father;아버지
+female friend;여사친
+female friend;여자 사람 친구
+fire;불
 five;다섯
 five;오
+floor;바닥
+flower count;송지
+flower;꽃
+flower;꽃
+fly;파리
+food;음식
+foot;발
+for a moment;잠깐만
+foreign;외국
+forenoon;오전
+forest;숲
+four;넷
+four;사
+fridge;냉장고
+friend;친구
+friends;친구들
+front gate;앞문
+front;앞
+fun;재미
+furniture;가구
+garlic butter;갈릭 버터
+gift;선물
+gift;선물
+girlfriend;여자 친구
+girlfriend;여친
+glass;유리
+glass;잔
+glasses;안경
+glue;딱풀
+gold spoon;금수저
+gold;금
+goodbye;안녕히 가세요
+goodbye;안녕히 계세요
+grandparents;조부모님
+grape;포도
+guitar;기타
+hail;우박
+hair strand;가닥
+hair;머리카락
+hairband;머리띠
+hairdresser;미용실
+hamburger;햄버거
 hangul;한글
+harness;마구
 hat;모자
 head;머리
 heads;머리
+height;키
+hello;안녕
+hello;안녕하세요
+here;여기
+here;여기
+hieut;히읗
+high boots;장화
+high heels;하이힐
+highway;고속도로
+hippo;하마
+homework;숙제
+honey;자기
+horse count;피
+hospital;병원
+hot noodles;라면
+hour count;시
+house;집
+housewife;주부
+how is it;어때요
+how many;몇
+how;어떻게
+how;어떻다
+humidity;습도
+hundred;백
+ice cream;아이스크림
+in;안
+inside;안
+internet shopping;인터넷 쇼핑
+internet;인터넷
+job;직업
+journalist;기자
+juice;주스
+keyboard;키보드
 kid;아이
 kids;아이들
+kimbab;김밥
+kimchi soup;김치찌개
+kimchi;김치
+kindergarten;유치원
+kiss;키스
+kisses;뽀뽀
+kitchen;부엌
+kiwi;키위
+knee;무릎
+ladder;사다리
+lake;호수
+leaf;잎
+left;왼쪽
 leg;다리
 legs;다리
+lemon;레몬
+lemonade;레몬에이드
+letter;글자
+library;도서관
+life;생활
+light;빛
+lightning;번개
+lilac;라일락
+literature;문학
+living room;거실
+lunch time;점심
+lunch;점김
+magazine;잡지
+magpie;까치
+main of the day;오늘의 메뉴
+male friend;남사친
+male friend;남자 사람 친구
 man's younger brother;아우
+man;남자
 map;지도
+market;시장
+marketplace;시장
+married couple;부부
+maybe;아마
+me;나
+me;저
+meal of the day;오늘의 메인
+meal;밥
 meat;고기
 meats;고기
+meeting;회의
+melon;멜론
+menu;메뉴
+middle-aged man;아저씨
+middle-aged woman;아주머니
+milk;우유
+minus;마이너스
+minus;영하
+minute count;분
+miss;씨
+mister;씨
+mistress;씨
+mom;엄마
+money;돈
+month;월
+morning;아침
 mother;어머니
+mountain;산
+mouse;쥐
+moustache;콧수염
+mouth;입
+mushrooms;버섯
+music;으막
+my;내
+my;제
+name;이름
+nationality;국적
+news;뉴스
+newspaper;신문
+nice to meet you;만나서 반가워요
+night;밤
+nine;구
+nine;아홉
+no;아니요
+noodles;면
+nose;코
+nosebleed;코피
+not;안
+notebook;공책
+now;지금
+of course;그럼요
+often;자주
+on;위
+one hundred;백
+one of a pair;짝
+one thousand;천
+one;일
+one;하나
+onion;양파
+online shopping;온라인 쇼핑
+online;온라인
+orange;오렌지
+ostrich;타조
 our;우리
+outside;밖
+over;위
+overpass;고가도로
+page count;쪽
+painter;화가
+painting;그림
+pair of shoes;켤레
+palm tree;야자수
 pants;바지
+paper count;장
+paralysis;마비
+parents;부모님
+park;공원
+party;파티
+pear;배
+pen;볼펜
+pencil case;필통
+pencil;연필
+people count;명
+pepper;고추
+per;에
+person;사람
+pharmacy;약국
+phone call count;통
+photo;사진
+picture;사진
+piece;개
+pig;돼지
+pine tree;소나무
+pineapple;파인애플
+ping-pong;탁구
+pizza;피자
+plus;영상
+poem;시
+popcorn;팝콘
+pore;모공
+pork cutlet;돈가스
+pork;돼지고기
+post office;우채국
+previously;지난
+price;값
+profession;직업
+professor;교수
+puppy;강아지
+question;문제
+rabbit;토끼
 radio;라디오
 radios;라디오
+rain boots;장화
+rain;비
+really;그래요
+really;진짜
+recently;요즘
+recently;최근
+refrigerator;냉장고
+repair;수리
+restaurant;식당
+rib soup;갈비탕
+ribs;갈비
+rice;밥
+right;오른쪽
+ring;고리
+road;도로
+road;질
+room;방
+root;뿌리
+ruler;자
+sandals;샌들
+sandwich;샌드위치
+school;학교
+scissors;가위
+seat;자리
+seawater;오수
+seesaw;시소
+servant;종업원
+seven;일곱
+seven;칠
+ship;배
 shoe;구두
 shoes;구두
+shoes;신발
+side;옆
+sidewalk;도보
+silver spoon;은수저
+silver;은
 singer;가수
 singeress;가수
 singers;가수들
+six;여섯
+six;육
+ski resort;스키장
+skirt;치마
+slippers;슬리퍼
+smile;미소
+snack count;봉지
+snack;간식
+sneakers;운동화
+snooker;스누커
+snow;눈
+so;그럼
 soap;비누
+soil spoon;흙수저
+soil;흙
+soju;소주
+soldier;군인
+song;노래
+soon;곧
+sorry;미안합니다
+sorry;미안해
+sorry;미안해요
+sorry;죄송합니다
+sound value;음가
+soup of the day;오늘의 수프
+soup;탕
+spaghetti;스파게티
 spider;거미
+spoon;수저
+sports center;스포츠 센터
+sports shoes;운동화
+spring;봄
+stamp;우표
+stapler;스테이플러
+stapler;호치키스
+steamed rice;밥
+stomach;배
+store;가게
+storm;태풍
+strawberry;딸기
+street;거리
+student;학생
+summer;여름
+sun;해
+sunglasses;선글라스
+sure;그럼요
+sweater;스웨터
+swimming pool;수영장
+swing;그네
+table tennis;탁구
+table;책상
+taekwondo;태권도
+tail;꼬리
+talk;얘기
+talk;이야기
+tangerine;귤
+taste;맛
+tattoo;문신
+tattoo;타투
+tea;차
+teacher;선생님
+teahouse;찻집
+teaspoon;티스푼
 teeth;이
+television;텔레비전
+ten thousand;만
+ten;십
+ten;열
+test;시험
+thank you;감사합니다
+thank you;고마워
+thank you;고마워요
+thank you;고맙습니다
+that;그거
+that;저거
+theater play;연국
+theater;극장
+then;그럼
+there;거기
+there;저기
+these days;요즘
+this;이거
+thousand;천
+three;삼
+three;셋
+thunder;천둥
+time;시간
+tissue;휴지
+to answer a call;전화를 받다
+to be bitter;쓰다
+to be bored;심심하다
+to be careful;조심하다
+to be cheap;싸다
+to be close;가깝다
+to be cloudy;흐리다
+to be cold;춥다
+to be cool;시원하다
+to be crowded;복잡하다
+to be delicious;맛있다
+to be difficult;어렵다
+to be easy;쉽다
+to be expensive;비싸다
+to be finished;끝나다
+to be fun;재미있다
+to be good;좋다
+to be hard;어렵다
+to be heavy;무겁다
+to be high;높다
+to be hot;덥다
+to be interesting;재미있다
+to be kind;착하다
+to be light;가볍다
+to be low;낮다
+to be pretty;예쁘다
+to be salty;짜다
+to be sleepy;졸리다
+to be sorry;미안하다
+to be sour;시다
+to be spicy;맵다
+to be sunny;맑다
+to be sweet;달다
+to be tasty;맛있다
+to be tired;피곤하다
+to be warm;따뜻하다
+to be;있다
+to brush one's teeth;이를 닦다
+to buy;사다
+to call;전화하다
+to call;전화하다
+to clean the house;청소하다
+to clean up;정리하다
+to clean;깨끗하다
+to come;오다
+to do homework;숙제하다
+to do;하다
+to drink;마시다
+to drive;운전하다
+to eat;먹다
+to exercise;운동하다
+to float;뜨다
+to get married;결혼하다
+to give;주다
+to go;가다
+to hang;끼다
+to have;있다
+to know;알다
+to learn;배우다
+to like;좋아하다
+to listen;듣다
+to look for;찾다
+to look;보다
+to love;사랑하다
+to make;만들다
+to meet;만나다
+to memorize;외우다
+to not be;없다
+to pick;따다
+to play;놀다
+to rain;비가 오다
+to read;읽다
+to receive;받다
+to rest;쉬다
+to see;보다
+to shop;쇼핑하다
+to sightsee;구경하다
+to sit down;앉다
+to sit;앉다
+to ski;스키하다
+to sleep;자다
+to snow;눈이 오다
+to speak;말하다
+to spend time;시간은 보내다
+to steam;찌다
+to stroll;신책하다
+to study;공부하다
+to swim;수영하다
+to swim;수영하다
+to take a photo;사진을 찍다
+to take a picture;사진을 찍다
+to talk on phone;통화하다
+to talk;이야기하다
+to teach;카르치다
+to vacuum;진공청소기로 청소 하다
+to wait;기다리다
+to wash one's face;세수하다
+to watch;보다
+to work part-time;아르바이트하다
+to work;일하다
+to write;쓰다
+tofu;두부
+together;같이
+together;함께
+toilet paper;휴지
+toilet;화장실
+tomato;토마토
+tomorrow;내일
+tongue;혀
+too;도
 tooth;이
+train ticket;기차표
+transportation card;교통카드
+trashcan;휴지통
+tree count;그루
 tree;나무
 trees;나무
 trousers;바지
+tteokbokki;떡볶이
+two;둘
+two;이
+udon;우동
+umbrella;우산
+under;밑
+under;아래
 underground;지하
+university;대학교
+up;위
 us;우리
+very;너무
+very;아주
+view;뵤
 waist;허리
+waiter;웨이터
+wall;벽
+wallet;지갑
+warrior;무사
+wash face;세수
+water;물
+watermelon;수박
 we;우리
+weather;날씨
+wedding;결혼식
+weekday;요일
+weekend;주말
+welcome;어서 오세요
+what date;며칠
+what;뭐
+when;언제
+where;어디
+which;어느
+whiteboard;칠팍
 who;누구
+whole day;하루
+why;왜
+window shopping;아이쇼핑
+window;창문
+winter;겨울
+with;하고
+woman;여자
+writing order;획순
+writing utensil;자루
+writing;글의
+writing;타기
+year;년
+year;연도
+yes;네
+yesterday;어제
+yet;아직
+yoga;요가
+you;너
+you;당신

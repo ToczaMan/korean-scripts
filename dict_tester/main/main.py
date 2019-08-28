@@ -1,4 +1,6 @@
 import random
+from gtts import gTTS
+from pygame import mixer
 
 
 # TODO: English --> Korean translation
@@ -15,10 +17,18 @@ def main():
                 english_word = words_in_line[0].strip()
                 korean_word = words_in_line[1].strip()
                 known_dictionary[english_word.lower()] = words_to_guess[english_word.lower()] = korean_word
+    saved_voice_num = 1
+    mixer.init()
     while words_to_guess:
+        saved_voice_num ^= 1
+        saved_voice_name = "voice{}.mp3".format(saved_voice_num)
         # Pick a random Korean word from the list.
         drawn_english_word, drawn_korean_word = random.choice(list(words_to_guess.items()))
         # Print the word and ask the user for input - need to answer in English.
+        tts = gTTS(text=drawn_korean_word, lang="ko")
+        tts.save(saved_voice_name)
+        mixer.music.load(saved_voice_name)
+        mixer.music.play()
         translation = input("{korean_word}(은/는) 영어로 무엇입니까? (type \"@end\" to end) "
                             .format(korean_word=drawn_korean_word))
         if translation == "@end":
