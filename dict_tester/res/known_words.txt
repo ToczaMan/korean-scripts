@@ -1,3 +1,8 @@
+0;공
+0;영
+0;제로
+1000000000000;조
+100000000;억
 10000;만
 1000;천
 100;백
@@ -95,11 +100,16 @@ USA;미국
 United States;미국
 Wednesday;수요일
 Yeoui Island;여의도
+a few days ago;엊그제
 a little;조금
 a little;좀
+a long ago;옛날
+above zero;영상
 academy;학원
+after;이후
 afternoon;오후
 again;또
+air;공기
 airport;공항
 alcohol;술
 alone;혼자
@@ -132,8 +142,12 @@ beard;수염
 beard;턱수염
 beef;소고기
 beer;맥주
+beginning;초
 behind;뒤
+below zero;영하
+between;사이
 bibimbap;비빔밥
+billion;조
 binoculars;망원경
 bird;새
 birthday;생일
@@ -172,6 +186,7 @@ cat;고양이
 cattle;소
 cellphone;핸드폰
 cellphone;휴대폰
+center;중
 chair;의자
 cheese;치즈
 child;아이
@@ -188,6 +203,7 @@ clock;시계
 clothes count;벌
 clothes;옷
 clothing store;옷가게
+cloud;구름
 club;클럽
 coat;코트
 coffee;커피
@@ -206,7 +222,6 @@ cooking;요리
 countries;나라
 country;나라
 couple;쌍
-pair;쌍
 cow;소
 cows;소
 crab;게
@@ -217,10 +232,13 @@ currently;지금
 dad;아빠
 date;날짜
 dawn;새벽
+day after tomorrow;모레
+day before yesterday;그저께
 day;일
 daytime;낯
 degree;도
 department store;백화점
+dew;이슬
 dictionary;사전
 doctor;의사
 dog;개
@@ -229,14 +247,16 @@ door;문
 doughnut;도넛
 downpour;소나기
 downtown;시내
-between;사이
 dozen;다스
 dress shirt;와이셔츠
 driver;기사
 duck;오리
 duct tape;스카치테이프
 dumplings;만두
+during;동안
+dusk;황혼
 ear;귀
+early;이른
 eight;여덟
 eight;팔
 electric fan;선퐁기
@@ -249,6 +269,8 @@ employee;회사원
 eraser;지우개
 evening;밤
 evening;저녁
+every day;매일
+every week;매주
 everyday;매일
 everyone;여러분
 eye;눈
@@ -262,13 +284,16 @@ father;아버지
 female friend;여사친
 female friend;여자 사람 친구
 fire;불
+first;처음
 five;다섯
 five;오
 floor;바닥
+floor;층
 flower count;송지
 flower;꽃
 flower;꽃
 fly;파리
+fog;안개
 food;음식
 foot;발
 for a moment;잠깐만
@@ -282,8 +307,10 @@ friend;친구
 friends;친구들
 front gate;앞문
 front;앞
+frost;서리
 fun;재미
 furniture;가구
+future;미래
 garlic butter;갈릭 버터
 gift;선물
 gift;선물
@@ -299,6 +326,7 @@ goodbye;안녕히 가세요
 goodbye;안녕히 계세요
 grandparents;조부모님
 grape;포도
+grass;풀
 guitar;기타
 hail;우박
 hair strand;가닥
@@ -333,6 +361,7 @@ how is it;어때요
 how many;몇
 how;어떻게
 how;어떻다
+humidity;습기
 humidity;습도
 hundred;백
 ice cream;아이스크림
@@ -357,6 +386,14 @@ kiwi;키위
 knee;무릎
 ladder;사다리
 lake;호수
+last month;지난달
+last week;지난주
+last year;지난년
+last;마지막
+last;말
+lately;최근
+later;나중
+later;이따
 leaf;잎
 left;왼쪽
 leg;다리
@@ -371,6 +408,8 @@ lightning;번개
 lilac;라일락
 literature;문학
 living room;거실
+long ago;옛날
+long time ago;옛날
 lunch time;점심
 lunch;점김
 magazine;잡지
@@ -398,7 +437,6 @@ middle-aged man;아저씨
 middle-aged woman;아주머니
 milk;우유
 minus;마이너스
-minus;영하
 minute count;분
 miss;씨
 mister;씨
@@ -420,6 +458,10 @@ name;이름
 nationality;국적
 news;뉴스
 newspaper;신문
+next month;다음달
+next week;다음주
+next year;내년
+next;다음
 nice to meet you;만나서 반가워요
 night;밤
 nine;구
@@ -431,9 +473,12 @@ nosebleed;코피
 not;안
 notebook;공책
 now;지금
+now;현재
 of course;그럼요
 often;자주
 on;위
+one day;하루
+one hundred million;억
 one hundred;백
 one of a pair;짝
 one thousand;천
@@ -452,6 +497,7 @@ page count;쪽
 painter;화가
 painting;그림
 pair of shoes;켤레
+pair;쌍
 palm tree;야자수
 pants;바지
 paper count;장
@@ -459,6 +505,7 @@ paralysis;마비
 parents;부모님
 park;공원
 party;파티
+past;과거
 pear;배
 pen;볼펜
 pencil case;필통
@@ -484,6 +531,11 @@ pore;모공
 pork cutlet;돈가스
 pork;돼지고기
 post office;우채국
+present;현재
+previous month;지난달
+previous week;지난주
+previous year;지난년
+previous;이전
 previously;지난
 price;값
 profession;직업
@@ -495,6 +547,8 @@ radio;라디오
 radios;라디오
 rain boots;장화
 rain;비
+rainbow;무지개
+rainy season;우기
 really;그래요
 really;진짜
 recently;요즘
@@ -516,16 +570,20 @@ sandals;샌들
 sandwich;샌드위치
 school;학교
 scissors;가위
+season;계절
 seat;자리
 seawater;오수
+second;초
 seesaw;시소
 servant;종업원
+serving;인분
 seven;일곱
 seven;칠
 ship;배
 shoe;구두
 shoes;구두
 shoes;신발
+shower;소나기
 side;옆
 sidewalk;도보
 silver spoon;은수저
@@ -537,6 +595,7 @@ six;여섯
 six;육
 ski resort;스키장
 skirt;치마
+sky;하늘
 slippers;슬리퍼
 smile;미소
 snack count;봉지
@@ -557,6 +616,7 @@ sorry;미안해
 sorry;미안해요
 sorry;죄송합니다
 sound value;음가
+sound;소리
 soup of the day;오늘의 수프
 soup;탕
 spaghetti;스파게티
@@ -578,7 +638,10 @@ student;학생
 summer;여름
 sun;해
 sunglasses;선글라스
+sunlight;햇빛
+sunshine;햇빛
 sure;그럼요
+surface;지면
 sweater;스웨터
 swimming pool;수영장
 swing;그네
@@ -598,6 +661,8 @@ teahouse;찻집
 teaspoon;티스푼
 teeth;이
 television;텔레비전
+temperature;기온
+temperature;온도
 ten thousand;만
 ten;십
 ten;열
@@ -614,6 +679,10 @@ then;그럼
 there;거기
 there;저기
 these days;요즘
+this month;이번달
+this week;이번주
+this year;금년
+this year;올해년
 this;이거
 thousand;천
 three;삼
@@ -626,13 +695,17 @@ to be bitter;쓰다
 to be bored;심심하다
 to be careful;조심하다
 to be cheap;싸다
+to be clean;깨끗하다
 to be close;가깝다
 to be cloudy;흐리다
+to be cold;쌀쌀하다
 to be cold;춥다
+to be cool;선선하다
 to be cool;시원하다
 to be crowded;복잡하다
 to be delicious;맛있다
 to be difficult;어렵다
+to be dry;건조하다
 to be easy;쉽다
 to be expensive;비싸다
 to be finished;끝나다
@@ -642,29 +715,33 @@ to be hard;어렵다
 to be heavy;무겁다
 to be high;높다
 to be hot;덥다
+to be hot;무덥다
+to be hung;끼다
 to be interesting;재미있다
 to be kind;착하다
 to be light;가볍다
 to be low;낮다
+to be muggy;후덥지근하다
 to be pretty;예쁘다
 to be salty;짜다
 to be sleepy;졸리다
 to be sorry;미안하다
 to be sour;시다
 to be spicy;맵다
+to be stuck;끼다
 to be sunny;맑다
 to be sweet;달다
 to be tasty;맛있다
 to be tired;피곤하다
 to be warm;따뜻하다
 to be;있다
+to blow;불다
 to brush one's teeth;이를 닦다
 to buy;사다
 to call;전화하다
 to call;전화하다
 to clean the house;청소하다
 to clean up;정리하다
-to clean;깨끗하다
 to come;오다
 to do homework;숙제하다
 to do;하다
@@ -672,11 +749,14 @@ to drink;마시다
 to drive;운전하다
 to eat;먹다
 to exercise;운동하다
+to fall;내리다
+to flash;번쩍하다
+to float;떠있다
 to float;뜨다
 to get married;결혼하다
+to get wet;젖다
 to give;주다
 to go;가다
-to hang;끼다
 to have;있다
 to know;알다
 to learn;배우다
@@ -695,6 +775,7 @@ to rain;비가 오다
 to read;읽다
 to receive;받다
 to rest;쉬다
+to ring;울리다
 to see;보다
 to shop;쇼핑하다
 to sightsee;구경하다
@@ -703,9 +784,11 @@ to sit;앉다
 to ski;스키하다
 to sleep;자다
 to snow;눈이 오다
+to sound;울리다
 to speak;말하다
 to spend time;시간은 보내다
 to steam;찌다
+to stop;그치다
 to stroll;신책하다
 to study;공부하다
 to swim;수영하다
@@ -740,6 +823,7 @@ tree;나무
 trees;나무
 trousers;바지
 tteokbokki;떡볶이
+twilight;황혼
 two;둘
 two;이
 udon;우동
@@ -765,6 +849,7 @@ we;우리
 weather;날씨
 wedding;결혼식
 weekday;요일
+weekday;평일
 weekend;주말
 welcome;어서 오세요
 what date;며칠
@@ -774,8 +859,11 @@ where;어디
 which;어느
 whiteboard;칠팍
 who;누구
+whole day;종일
 whole day;하루
+whole night;밤새
 why;왜
+wind;바람
 window shopping;아이쇼핑
 window;창문
 winter;겨울
@@ -787,9 +875,13 @@ writing;글의
 writing;타기
 year;년
 year;연도
+years;살
 yes;네
 yesterday;어제
 yet;아직
 yoga;요가
 you;너
 you;당신
+zero;공
+zero;영
+zero;제로
